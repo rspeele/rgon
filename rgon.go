@@ -4,7 +4,7 @@ package main
  */
 
 import (
-	"./rcon"
+	"rspeele/rgon/rcon"
 	"bufio"
 	"flag"
 	"fmt"
